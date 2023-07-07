@@ -1,3 +1,3 @@
-spring.name=sravani
+spring.name=sravani boga
 spring.example=practice work
 spring.date=july7_2023
