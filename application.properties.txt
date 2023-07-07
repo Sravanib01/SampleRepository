@@ -1,0 +1,3 @@
+spring.name=sravani
+spring.example=practice work
+spring.date=july7
